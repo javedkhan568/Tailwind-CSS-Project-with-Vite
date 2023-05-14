@@ -26,3 +26,6 @@ Feel free to customize and extend this project according to your specific requir
 Adding additional Tailwind CSS utility classes to the tailwind.config.js file.
 Creating custom CSS styles in the styles directory.
 Integrating with other libraries or frameworks based on your project's needs.
+Technologies Used
+Tailwind CSS: A utility-first CSS framework that enables rapid UI development with a comprehensive set of pre-designed classes.
+Vite: A blazing-fast build tool that leverages modern JavaScript features and a highly optimized development server.
